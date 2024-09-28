@@ -417,3 +417,7 @@ input[type=submit] {
         width: 80%;
     }
 }
+
+.visually-hidden{
+    visibility: hidden;
+}
