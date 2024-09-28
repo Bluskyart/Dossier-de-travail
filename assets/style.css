@@ -165,8 +165,12 @@ body {
 	border-radius:0 ;
 }
 
-.active {
+.nav-pills .nav-link:hover, .gallery-item {
     cursor: pointer;
+}
+
+.carousel-control-prev-icon .carousel-control-next-icon {
+    color: #000;
 }
 
 .item-column {
@@ -214,7 +218,7 @@ form textarea {
 
 .quote__text {
     font-weight: 300;
-    font-size: 40px; /* Taille mise à jour */
+    font-size: 40px;
 }
 
 .quote__author {
