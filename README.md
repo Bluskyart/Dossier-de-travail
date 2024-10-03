@@ -7,11 +7,12 @@
 
 Dans le rôle d'un développeur freelance, j'ai décidé de proposer mes services d’optimisation SEO à de nouveaux clients. 
 
- 
 
 Parmi mes prospects, il y a le site de Nina Carducci, une photographe dont m'a parlé l’un de mes amis. Voici l’e-mail que j'ai envoyé à Nina : 
 
-
+**Objet :** Proposition d’optimisation de votre référencement  
+**De :** Moi  
+**À :** Nina Carducci
 
 
 
