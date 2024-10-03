@@ -105,7 +105,7 @@ Suite à notre discussion, nous avons reçu un mail de Nina :
 </tbody>
 </table>
 
-* Pièces rendues
+# Pièces rendues
 
 [Site de Nina Carducci Optimisé](https://bluskyart.github.io/OpenClassooms-Projet4/)
 
