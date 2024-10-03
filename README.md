@@ -1,6 +1,3 @@
-
-
-
 ## Scénario
 
 Dans le rôle d'un développeur freelance, j'ai décidé de proposer mes services d’optimisation SEO à de nouveaux clients. 
@@ -109,4 +106,4 @@ Suite à notre discussion, nous avons reçu un mail de Nina :
 
 [Site de Nina Carducci Optimisé](https://bluskyart.github.io/OpenClassooms-Projet4/)
 
-[embed]https://github.com/user-attachments/files/17194933/Lescrohart_Guerwan_2_audit_lighthouse_092024.pdf[embed]
+<a href="https://github.com/user-attachments/files/17194933/Lescrohart_Guerwan_2_audit_lighthouse_092024.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
