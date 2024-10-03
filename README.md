@@ -10,12 +10,49 @@ Dans le rôle d'un développeur freelance, j'ai décidé de proposer mes service
 
 Parmi mes prospects, il y a le site de Nina Carducci, une photographe dont m'a parlé l’un de mes amis. Voici l’e-mail que j'ai envoyé à Nina : 
 
-
-|     |
-| --- |
-| **Objet :** Proposition d’optimisation de votre référencement  <br>**De :** Moi  <br>**À :** Nina Carducci |
-| Bonjour, <br><br>Je suis développeur web freelance, et je vous écris car j'ai pu faire un tour sur votre site [nina-carducci.github.io](https://nina-carducci.github.io/). Je trouve votre travail de grande qualité. Cependant j’ai trouvé que votre site était relativement long à charger, et je pense que vous pourriez gagner beaucoup de visiteurs si votre site était optimisé pour les moteurs de recherche.<br><br>Pour que vous puissiez vous faire une idée de ce qui peut être amélioré sur votre site, **je vous joins un document d’audit** que j’ai réalisé. Ce document reprend les grandes lignes des problèmes de performances que votre site rencontre.<br><br>Je vous propose mes services afin de pouvoir corriger les éléments mentionnés dans le rapport joint, et améliorer votre référencement. Je vous propose donc une prestation d’optimisation du site sur les points suivants :<br><br>1.  Optimisation des images du site : des images trop lourdes rendent la page très longue à charger.<br>2.  Optimisation du code et de sa structure, afin d’améliorer le chargement et l’accessibilité du site. <br><br>Qu’est-ce que vous y gagnez ? Un meilleur référencement (SEO), et donc plus de visibilité pour vos potentiels clients.<br><br>Afin que vous puissiez voir les résultats d’optimisation, je vous livrerai le code optimisé, mais aussi un **rapport d’intervention** montrant :<br><br>*   les performances de votre site avant et après optimisation (en me basant sur des audits Lighthouse pour les performances, et des audits Wave pour l’accessibilité) ;<br>*   la liste des modifications que j’ai apportées à votre site ; <br>*   une liste des cas d’usage de votre site, expliquant comment le site devrait fonctionner, pour que vous puissiez vous assurer que tout fonctionne correctement sur votre site. <br><br>Je suis à votre disposition pour plus d’informations.<br><br>Cordialement, |
-| **Pièce jointe** :<br><br>*   [Audit du site ninacarducci.github.io](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P9+Optimisation/Audit+lighthouse+Desktop.pdf) |
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Objet :</strong>&nbsp;Proposition d’optimisation de votre référencement<br><strong>De :&nbsp;</strong>Moi<br><strong>À :&nbsp;</strong>Nina Carducci</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bonjour,&nbsp;</p>
+<p>Je suis développeur web freelance, et je vous écris car j'ai pu faire un tour sur votre site&nbsp;<a class="custom-link" href="https://nina-carducci.github.io/">nina-carducci.github.io</a>. Je trouve votre travail de grande qualité. Cependant j’ai trouvé que votre site était relativement long à charger, et je pense que vous pourriez gagner beaucoup de visiteurs si votre site était optimisé pour les moteurs de recherche.</p>
+<p>&nbsp;</p>
+<p>Pour que vous puissiez vous faire une idée de ce qui peut être amélioré sur votre site,&nbsp;<strong>je vous joins un document d’audit</strong>&nbsp;que j’ai réalisé. Ce document reprend les grandes lignes des problèmes de performances que votre site rencontre.</p>
+<p>&nbsp;</p>
+<p>Je vous propose mes services afin de pouvoir corriger les éléments mentionnés dans le rapport joint, et améliorer votre référencement. Je vous propose donc une prestation d’optimisation du site sur les points suivants&nbsp;:</p>
+<ol>
+<li>Optimisation des images du site&nbsp;: des images trop lourdes rendent la page très longue à charger.</li>
+<li>Optimisation du code et de sa structure, afin d’améliorer le chargement et l’accessibilité du site.&nbsp;</li>
+</ol>
+<p>&nbsp;</p>
+<p>Qu’est-ce que vous y gagnez ? Un meilleur référencement (SEO), et donc plus de visibilité pour vos potentiels clients.</p>
+<p>&nbsp;</p>
+<p>Afin que vous puissiez voir les résultats d’optimisation, je vous livrerai le code optimisé, mais aussi un&nbsp;<strong>rapport d’intervention&nbsp;</strong>montrant&nbsp;:</p>
+<ul>
+<li>les performances de votre site avant et après optimisation (en me basant sur des audits Lighthouse pour les performances, et des audits Wave pour l’accessibilité)&nbsp;;</li>
+<li>la liste des modifications que j’ai apportées à votre site&nbsp;;&nbsp;</li>
+<li>une liste des cas d’usage de votre site, expliquant comment le site devrait fonctionner, pour que vous puissiez vous assurer que tout fonctionne correctement sur votre site.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p>Je suis à votre disposition pour plus d’informations.</p>
+<p>Cordialement,</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Pièce jointe</strong>&nbsp;:</p>
+<ul>
+<li><a class="custom-link" href="https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P9+Optimisation/Audit+lighthouse+Desktop.pdf">Audit du site ninacarducci.github.io</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Le lendemain
 
