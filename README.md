@@ -10,11 +10,11 @@ Dans le rôle d'un développeur freelance, j'ai décidé de proposer mes service
 
 Parmi mes prospects, il y a le site de Nina Carducci, une photographe dont m'a parlé l’un de mes amis. Voici l’e-mail que j'ai envoyé à Nina : 
 
------------
+----
 **Objet :** Proposition d’optimisation de votre référencement  
 **De :** Moi  
 **À :** Nina Carducci
------------
+----
 Bonjour, 
 
 Je suis développeur web freelance, et je vous écris car j'ai pu faire un tour sur votre site [nina-carducci.github.io](https://nina-carducci.github.io/). Je trouve votre travail de grande qualité. Cependant j’ai trouvé que votre site était relativement long à charger, et je pense que vous pourriez gagner beaucoup de visiteurs si votre site était optimisé pour les moteurs de recherche.
